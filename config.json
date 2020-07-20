@@ -1,0 +1,11 @@
+{
+    "wifi": {
+        "ssid": "",
+        "password": ""
+    },
+    "mqtt-server": {
+        "ip": "raspi",
+        "temperature-topic": "esp32/temp",
+        "humidity-topic": "esp32/hum"
+    }
+}
